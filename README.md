@@ -2,6 +2,5 @@
 
 #### Static webpage to begin with styling and placement of React Components and CSS
 
-<img src="../images/ScreenShot.png">
+<img src="./images/ScreenShot.png">
 
-### https://jacksondynamics.github.io/React_Info-Site/
