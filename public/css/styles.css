@@ -7,8 +7,14 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 40px auto;
+    /* margin-top: 40px; */
     font-family: 'Inter', sans-serif;
+    background-color: #282D35;
+    max-width: 550px;
+    max-height: 950px;
+    border: 2px solid grey;
+    box-shadow: 0 0 5px #888888 
 }
 
 nav {
@@ -36,3 +42,35 @@ nav {
     height: 30px;
     margin-right: 7px;
 }
+
+main {
+    padding: 57px 27px;
+    color: #FFFFFF;
+    background-image: url(../images/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position: right 75%;;
+}
+
+.main--title {
+    margin: 0px;
+    font-size: 3.9rem;
+    letter-spacing: -0.05em;
+}
+
+.main--facts {
+    margin-top: 46px;
+    max-width: 400px;
+    font-size: 1.6rem;
+    font-weight: 400px;
+}
+
+.main--facts > li {
+    line-height: 19px;
+    padding-block: 10px;
+}
+
+.main--facts > li::marker {
+    font-size: 3rem;
+    color: #61DAFB;
+}
+
