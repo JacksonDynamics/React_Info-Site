@@ -2,5 +2,5 @@
 
 #### Static webpage to begin with styling and placement of React Components and CSS
 
-<img src="./ScreenShot.png">
+<img src="./public/images/ScreenShot.png">
 
